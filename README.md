@@ -1,6 +1,7 @@
 This is a Bill Manager made on the text stack of html css javascript PHP and mySQL
-![Screenshot (37)](https://github.com/user-attachments/assets/6f2006c0-e3a7-4007-ad56-15c0fcf56df8)
-![Screenshot (38)](https://github.com/user-attachments/assets/460c45a3-d33a-4b2e-b46e-58bbeb708d0e)
-![Screenshot (39)](https://github.com/user-attachments/assets/d124dfa8-7f82-49de-af02-e66f9f8e7a95)
-![Screenshot (40)](https://github.com/user-attachments/assets/452a7887-a786-4007-b598-b3efff5eb857)
-![Screenshot (41)](https://github.com/user-attachments/assets/d4633bd5-be97-4563-a8f8-e3afb799a303)
+
+![Screenshot (37)](https://github.com/user-attachments/assets/1576ffc5-19df-4332-957c-fb0e9b28c1d7)
+![Screenshot (38)](https://github.com/user-attachments/assets/bed6b6ed-c3d3-4d46-983c-25d100e6978d)
+![Screenshot (39)](https://github.com/user-attachments/assets/ed06fd07-4cc2-4912-bbc8-30ec1441dcdf)
+![Screenshot (40)](https://github.com/user-attachments/assets/6fc77ef7-2b42-4dff-bf95-9f38a39b51d6)
+![Screenshot (41)](https://github.com/user-attachments/assets/4723a6fa-b451-468c-b345-b51932446385)
